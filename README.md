@@ -1,11 +1,13 @@
 # zsh-config
 
-
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 Theme:
+
 git clone https://github.com/dracula/iterm.git
 
 Font:
+
 git clone https://github.com/powerline/fonts.git --depth=1
 
 cd fonts
