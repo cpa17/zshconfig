@@ -7,10 +7,10 @@ git clone https://github.com/dracula/iterm.git
 
 Font:
 - clone
-git clone https://github.com/powerline/fonts.git --depth=1
+/n git clone https://github.com/powerline/fonts.git --depth=1
 - install
-cd fonts
+/n cd fonts
 ./install.sh
 - clean-up a bit
-cd ..
+/ n cd ..
 rm -rf fonts
