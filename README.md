@@ -6,11 +6,11 @@ Theme:
 git clone https://github.com/dracula/iterm.git
 
 Font:
-# clone
+- clone
 git clone https://github.com/powerline/fonts.git --depth=1
-# install
+- install
 cd fonts
 ./install.sh
-# clean-up a bit
+- clean-up a bit
 cd ..
 rm -rf fonts
