@@ -36,3 +36,6 @@ alias gcommit="git commit -m"
 alias zshconfig="open ~/.zshrc"
 alias install="brew install"
 alias uninstall="brew uninstall"
+
+
+
